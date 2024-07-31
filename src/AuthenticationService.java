@@ -22,7 +22,7 @@ public class AuthenticationService implements IAuthenticationService {
         return create_user;
 
     }
-    // TODO Now: Implement the logIn method to return the user if the username and password match, and null otherwise
+    // Implement the logIn method to return the user if the username and password match, and null otherwise
     @Override
     public User logIn(String username, String password) {
         for (User user : users){
