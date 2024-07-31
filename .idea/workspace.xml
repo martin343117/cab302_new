@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91ebc665-6ec2-4cb5-a90b-a7fe436e24f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IAuthenticationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+    <list default="true" id="91ebc665-6ec2-4cb5-a90b-a7fe436e24f6" name="Changes" comment="update todo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -18,31 +16,33 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "martin343117"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;martin343117&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/martin343117/cab302_new.git",
-    "accountId": "303bd4f2-afb4-4dce-9f6d-c7c8bdb8234f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/martin343117/cab302_new.git&quot;,
+    &quot;accountId&quot;: &quot;303bd4f2-afb4-4dce-9f6d-c7c8bdb8234f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2k09MNA6NAmSRtsRZQwgXJ196LX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "authentication",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ASUS/IdeaProjects/week2/src/Main.java",
     "settings.editor.selected.configurable": "application.passwordSafe"
@@ -65,6 +65,28 @@
       <option name="presentableId" value="Default" />
       <updated>1722409579304</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create signup procedure">
+      <option name="closed" value="true" />
+      <created>1722411534914</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722411534914</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update todo">
+      <option name="closed" value="true" />
+      <created>1722411829761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722411829761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create signup procedure" />
+    <MESSAGE value="update todo" />
+    <option name="LAST_COMMIT_MESSAGE" value="update todo" />
   </component>
 </project>
